@@ -10,7 +10,10 @@ namespace NH_CMS.Controllers
     {
         public ActionResult Index()
         {
+            //tesst github
             return View();
+
+            ///
         }
 
         public ActionResult About()
